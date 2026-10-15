@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.cache/
+adapters/
+data/*.jsonl
+data/*.csv
+results/
+ta_results/
+ta_results_ood/
+*.zip
+.env
